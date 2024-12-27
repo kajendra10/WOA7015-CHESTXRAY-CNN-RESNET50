@@ -1,2 +1,4 @@
 # WOA7015-CHESTXRAY-CNN-RESNET50
-A CNN model developed to observe and predict lung related chronic diseases at an early stage. ResNet-50 architecture is used to classify x-ray images and Occlusion Sensitivity Function is used to visualise the image with its affected areas.
+Graph plots for train & validation accuracy.
+![Screenshot (96)](https://github.com/user-attachments/assets/5ee0b4f8-c754-4f08-afa3-e85600142ee0)
+![Screenshot (97)](https://github.com/user-attachments/assets/cf03699e-6bff-4d1a-b0f9-b4f3ee94e3fd)
