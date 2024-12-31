@@ -1,6 +1,7 @@
 # WOA7015-CHESTXRAY-CNN-RESNET50
 DOWNLOAD THE DATA HERE
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+Kindly change the file path before running the code.
 
 Graph plots for train & validation accuracy.
 ![Screenshot (96)](https://github.com/user-attachments/assets/5ee0b4f8-c754-4f08-afa3-e85600142ee0)
