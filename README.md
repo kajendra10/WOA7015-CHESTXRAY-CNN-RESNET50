@@ -14,4 +14,4 @@ Saliency Map Classification.
 Occlusion Sensitivity Function.
 ![Screenshot (100)](https://github.com/user-attachments/assets/a225d284-9e14-48a6-8d2f-a33564a2d567)
 ![Screenshot (101)](https://github.com/user-attachments/assets/2b0bfea5-c737-431c-97cd-1dba58ce8226)
-**Copyright (c) 2025 Kajendra Naath Rajan | Chen Zitian | Yao Yinan**
+**Copyright (c) 2025 KJ Zetty Yinan. All Rights Reserved**
